@@ -1,0 +1,11 @@
+Assurez vous que: 
+*l'IDE netbean est installe
+*Jdk 16
+*Mysql 
+
+apres
+1. dezipe ecole_prime 
+2. Dans le desier mysql il le fichier sql pour la base d donne importe le
+3. ouvre le proget dans votre ide
+4.Ajouter mysql connector dans le proget
+
